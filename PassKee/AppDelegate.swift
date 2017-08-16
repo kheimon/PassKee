@@ -3,7 +3,7 @@
 //  PassKee
 //
 //  Created by Erik Tryggvason on 2017-08-16.
-//  Copyright © 2017 theros. All rights reserved.
+//  Copyright © 2017 Erik Tryggvason. All rights reserved.
 //
 
 import Cocoa
